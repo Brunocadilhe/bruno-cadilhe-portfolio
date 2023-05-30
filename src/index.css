@@ -354,7 +354,7 @@ KNOWLEDGE
   transition: var(--transition);
   background: var(--clr-white);
   margin-bottom: 2rem;
-  margin-left: -0.6rem;
+  margin-right: 2rem;
   cursor: pointer;
 
   /* Sizing */
@@ -416,6 +416,7 @@ KNOWLEDGE
 }
 @media screen and (min-width: 1170px) {
   .card {
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
   }
