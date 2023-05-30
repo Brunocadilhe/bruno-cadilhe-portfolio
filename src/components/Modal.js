@@ -12,8 +12,8 @@ const Modal = () => {
         <span className="modal-icon">
           <BsFillStarFill />
         </span>
-        <h3>lets get in touch</h3>
-        <h5>Email: cadilheb@gmail.com</h5>
+        <h3 className="modal-container-h3">lets get in touch</h3>
+        <h5 className="modal-container-h5">Email: cadilheb@gmail.com</h5>
         <button className="close-modal-btn" onClick={closeModal}>
           <FaTimes />
         </button>
