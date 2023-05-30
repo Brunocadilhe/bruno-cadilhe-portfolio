@@ -677,15 +677,15 @@ HOME
     left: 1.5rem;
   }
   .home-icon-toggle {
-    margin-left: 8.2rem;
-    margin-top: 4.5rem;
+    margin-left: -7rem;
   }
   .home-lightbulb {
     background: var(--clr-blue-6);
     color: var(--clr-blue-1);
     padding: 0.5rem;
-    display: inline-block;
     font-size: 4rem;
+    margin-left: 8.2rem;
+    margin-top: 4.5rem;
     margin-bottom: 2rem;
     border-radius: 5px;
     border: 2px solid var(--clr-black);
