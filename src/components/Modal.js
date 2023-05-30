@@ -13,7 +13,6 @@ const Modal = () => {
           <BsFillStarFill />
         </span>
         <h3 className="modal-container-h3">lets get in touch</h3>
-        <h4 className="modal-container-h4">Email:</h4>
         <h5 className="modal-container-h5">cadilheb@gmail.com</h5>
         <button className="close-modal-btn" onClick={closeModal}>
           <FaTimes />

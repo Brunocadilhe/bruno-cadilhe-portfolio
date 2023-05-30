@@ -815,26 +815,18 @@ MODAL
 .modal-container-h3 {
   position: absolute;
   place-items: center;
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: var(--modal-container-h3);
   text-shadow: var(--dark-shadow);
-  padding: 0rem 0rem 0rem 0rem;
-}
-.modal-container-h4 {
-  position: absolute;
-  place-items: center;
-  font-size: 1.1rem;
-  color: var(--modal-container-h3);
-  text-shadow: var(--dark-shadow);
-  padding: 0rem 0rem 15rem 0rem;
+  margin-bottom: 0rem;
 }
 .modal-container-h5 {
   position: absolute;
   place-items: center;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: var(--modal-container-h5);
   text-shadow: var(--dark-shadow);
-  padding: 0rem 0rem 10rem 0rem;
+  margin-bottom: 5rem;
 }
 .modal-icon {
   border-radius: 50%;
