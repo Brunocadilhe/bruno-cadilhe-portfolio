@@ -354,12 +354,12 @@ KNOWLEDGE
   transition: var(--transition);
   background: var(--clr-white);
   margin-bottom: 2rem;
-  margin-right: 2rem;
+  margin-right: 0rem;
   cursor: pointer;
 
   /* Sizing */
   height: 500px;
-  width: 350px;
+  width: 340px;
 
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
