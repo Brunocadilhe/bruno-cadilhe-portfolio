@@ -354,6 +354,7 @@ KNOWLEDGE
   transition: var(--transition);
   background: var(--clr-white);
   margin-bottom: 2rem;
+  margin-left: 2rem;
   cursor: pointer;
 
   /* Sizing */
@@ -410,11 +411,13 @@ KNOWLEDGE
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    place-items: center;
   }
 }
 @media screen and (min-width: 1170px) {
   .card {
     grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
   }
 }
 
