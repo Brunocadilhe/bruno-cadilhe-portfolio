@@ -354,7 +354,7 @@ KNOWLEDGE
   transition: var(--transition);
   background: var(--clr-white);
   margin-bottom: 2rem;
-  margin-left: 0.05rem;
+  margin-left: 0.01rem;
   cursor: pointer;
 
   /* Sizing */
