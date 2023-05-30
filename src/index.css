@@ -823,7 +823,7 @@ MODAL
   position: absolute;
   place-items: center;
   font-size: 1.5rem;
-  color: var(--clr-white);
+  color: var(--modal-container-h5);
   padding: 0rem 5rem 10rem 4rem;
   text-shadow: var(--dark-shadow);
 }
